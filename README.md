@@ -1,6 +1,6 @@
 # ProjectRainfallPrediction
 
-Project related Source Code file (.py), DataSets(csv format), Presentation(ppt), Report File are uploaded to this github location.
+Project related Source Code file (.py), DataSets(csv format), Presentation(ppt), Report File, Overleaf Zip Folder are uploaded to this github location.
 
 Below are the details of our group along with StudentId's :
 
